@@ -1,54 +1,49 @@
-# Fake News Detection Using Machine Learning and Deep Learning
-
-## Project Title
+Project Title
 
 Fake News Detection Using Machine Learning and Deep Learning Techniques
 
----
+Group Members
 
-## Group Members
+| Name          | Index Number  | Role                      |
+|---------------|---------------|---------------------------|
+| Group Leader  | CIT-24-01-0460| Logistic Regression & CNN |
+| Member 02     | CIT-24-01-0227| Naive Bayes & LSTM        |
+| Member 03     | CIT-24-01-0072| SVM & BERT                |
 
-| Name              | Index Number | Role                      |
-| ----------------- | ------------ | ------------------------- |
-| Group Leader Name | ITxxxxxxxx   | Logistic Regression & CNN |
-| Member 02 Name    | ITxxxxxxxx   | Naive Bayes & LSTM        |
-| Member 03 Name    | ITxxxxxxxx   | SVM & BERT                |
-
----
-
-## Problem Statement
+Problem Statement
 
 The rapid spread of fake news through online news platforms and social media has become a major challenge in today's digital world. Misinformation can influence public opinion, create social unrest, and reduce trust in reliable information sources.
 
 This project aims to develop an automated Fake News Detection system using Natural Language Processing (NLP) techniques and compare the performance of multiple Machine Learning and Deep Learning models in classifying news articles as Fake or Real.
 
----
 
-## Dataset Information
 
-**Dataset Name:** Fake and Real News Dataset
+# Dataset Information
 
-**Source:** Kaggle
+##### Dataset Name: 
+  *Fake and Real News Dataset*
 
-**Classes:**
+##### Source: 
+  * Kaggle
 
-* Fake News
-* Real News
+##### Classes:
 
-**Features:**
+  * Fake News
+  * Real News
 
-* Title
-* News Text
-* Subject
-* Date
-* Label
+##### Features:
 
-**Dataset Size:**
-Approximately 44,000 news articles.
+  * Title
+  * News Text
+  * Subject
+  * Date
+  * Label
 
----
+##### Dataset Size:
+  * Approximately 44,000 news articles.
 
-## Project Structure
+
+Project Structure
 
 ```text
 project-root/
@@ -181,7 +176,7 @@ To be determined after model evaluation.
 
 ---
 
-## Technologies Used
+Technologies Used
 
 * Python
 * Pandas
