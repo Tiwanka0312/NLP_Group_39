@@ -189,6 +189,3 @@ Technologies Used
 
 ---
 
-## Repository
-
-https://github.com/Tiwanka0312/NLP_Group_39
