@@ -1,6 +1,6 @@
 Project Title
 
-Fake News Detection Using Machine Learning and Deep Learning Techniques
+Detecting fake news using machine learning and deep learning techniques
 
 Group Members
 
