@@ -1,0 +1,11 @@
+{
+    "model": "Multinomial Naive Bayes",
+    "accuracy": 0.9640778871978514,
+    "precision": 0.9614026829842316,
+    "recall": 0.962989156058463,
+    "f1_score": 0.962195265575315,
+    "roc_auc": 0.9917082949392998,
+    "training_records": 35744,
+    "testing_records": 8936,
+    "tfidf_features": 30000
+}
