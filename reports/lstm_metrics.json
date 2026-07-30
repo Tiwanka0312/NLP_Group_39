@@ -1,0 +1,14 @@
+{
+    "model": "Bidirectional LSTM",
+    "test_loss": 0.006357887294143438,
+    "test_accuracy": 0.998880922794342,
+    "accuracy": 0.9988809310653536,
+    "precision": 0.9990566037735849,
+    "recall": 0.9985855728429985,
+    "f1_score": 0.9988210327752889,
+    "roc_auc": 0.9997639105927758,
+    "training_records": 35744,
+    "testing_records": 8936,
+    "max_sequence_length": 300,
+    "vocabulary_size": 30000
+}
